@@ -1,6 +1,6 @@
 # Complete Dart Tutorials
 
-![Dart Logo](https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e20c5e509c4d143e4a57b3c5a84c6f2d90532a07a872d0bb61cd63288f670388.svg)  
+![Dart Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1920px-Dart_programming_language_logo.svg)  
 
 A complete guide to learning Dart from scratch, with step-by-step tutorials, hands-on examples, and project-based learning. This repository is for anyone looking to master Dart, whether you're new to programming or an experienced developer exploring Dart for mobile, web, or backend development.
 
