@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 /// Dart is a Programming Language and Flutter is a Framework to build apps
 
 ///Variables is a Box Which Contains Data, (Data will be anything like number, String, Boolean, etc)
