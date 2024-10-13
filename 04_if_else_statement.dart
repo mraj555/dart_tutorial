@@ -2,15 +2,19 @@ void main() {
   ///if-else if-else
   int age = 100;
 
-  bool vote = isVote(age);
+  String license = isLicenseIssue(age);
 
-  print(vote);
+  print(license);
 }
 
-bool isVote(int age) {
-  if (age >= 18) {
-    return true;
+/// && - it means both condition should be true
+/// || - it means any one condition should be true
+String isLicenseIssue(int age) {
+  if (age >= 16 && age < 18) {
+    return "You're Eligible for Minor License";
+  } else if (age >= 18) {
+    return "You're Eligible for License";
   } else {
-    return false;
+    return "You're Not Eligible for License";
   }
 }
